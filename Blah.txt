@@ -1,1 +1,3 @@
 My document is cool
+
+New feature 1a
